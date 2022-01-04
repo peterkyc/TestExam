@@ -90,6 +90,18 @@ make the server in the development period.
 All functions take about 2 working weeks. Its functions are for 
 testing requirements only, and do not include requirements for other 
 professional enterprise functions.
+
+This demo uses React-admin examples as the basis.
+
+From scratch, it has added Express to the back end to provide API calls, and functions, 
+such as MySQL, Redis, Swagger and Nodemailer.
+
+According to the requirements, all functions of the front end have been rewritten. 
+So has Webpack (under folder scripts/config). And Webpack dev was used to set up the server 
+in the development phase.
+
+All functions take approximately 2 working weeks. Its functions are for testing only, 
+and requirements for other professional enterprise functions aren't included.
 ```
 
 
