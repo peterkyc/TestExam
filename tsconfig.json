@@ -1,0 +1,84 @@
+{
+  "compilerOptions": {
+    "outDir": "dist/",
+    "target": "es6",
+    "lib": [
+      "dom",
+      "dom.iterable",
+      "esnext"
+    ],
+    "typeRoots" : ["node_modules/@types", "src/types"],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    // "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "noFallthroughCasesInSwitch": true,
+    // "module": "esnext",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    // "noEmit": true,
+    // "jsx": "react-jsx",
+    /****************************** Start Peter Add ********************************/
+    "module": "commonjs", //"commonjs",
+    "sourceMap": true,
+    "baseUrl": ".",
+    "jsx": "react",
+    // "allowSyntheticDefaultImports": true,
+    // "moduleResolution": "node",
+    // "forceConsistentCasingInFileNames": true,
+    // "allowJs": true,
+    // "resolveJsonModule":true,
+    "noImplicitReturns": false, // true
+    "suppressImplicitAnyIndexErrors": false, // true
+    "noUnusedLocals": false, // true
+    "experimentalDecorators": true,
+    "strict": false, // true,
+    "noImplicitAny": false,
+    // "suppressImplicitAnyIndexErrors": false,
+    ///
+    "declaration": false, // will generate .d.ts
+    // "jsxFactory": "tsx", tsx 是錯誤設定
+    "removeComments": true,
+    "importHelpers": true,
+    "downlevelIteration": true,
+    "noImplicitUseStrict": true,
+    /****************************** End Peter Add ********************************/
+    // "paths": {
+    //   "api/*": [
+    //     "./src/api/*"
+    //   ],
+    //   "@/*": [
+    //     "./src/*"
+    //   ]
+    //   // "rsc/*":["./src/rsc/*"],
+    //   // "pcs/*":["./src/pcs/*"],
+    //   // "app/*":["./src/app/*"],
+    //   // "tool/*":["./src/tool/*"],
+    //   // "txs/*":["./src/txs/*"],
+    //   // "react-stockcharts/*":["./extm/react-stockcharts/*"],
+    //   // "themes/*":["./src/themes/*"]
+    // }
+  },
+  "include": [
+    // "src",
+    "tsl",
+    "server",
+    //"src/dataProvider/graphql.ts"	
+  ],
+  "exclude": [
+    //************************************************
+    "config",
+    "scripts",
+    //************************************************
+    //"rsc",
+    "node_modules",
+    "doc",
+    "old",
+    "build",
+    "dist",
+    "**/*.spec.ts"
+  ]
+}

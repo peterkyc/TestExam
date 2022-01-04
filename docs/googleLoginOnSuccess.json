@@ -1,0 +1,54 @@
+{
+  "Ba": "109494288283424322815",
+  "vc": {
+    "token_type": "Bearer",
+    "access_token": "ya29.a0ARrdaM-MDSt4U_XHBlbMmi911udTImdF9h2YbBET_7ZBOkAL-LROFqYA2mQMq6XhjDT-u8UcbA1vw7qwsUk621qoUdH1ruJPJwZ7atxfCaUDF8j1JnvFIUjAyX4DQnnE2t3gqCOQf0XxzArjGpQwS7eYRlqo-A",
+    "scope": "email profile https://www.googleapis.com/auth/drive.file https://www.googleapis.com/auth/userinfo.profile https://www.googleapis.com/auth/userinfo.email https://www.googleapis.com/auth/drive.metadata.readonly openid https://www.googleapis.com/auth/drive.readonly https://www.googleapis.com/auth/drive.appdata",
+    "login_hint": "AJDLj6JbbFDnOnbUHgULSAffngCc9BcCYUAFrhncV8kfHA2-pKsTF7LBiUpmzVf1luBLGPPFKFR4tdX_1mugUvdtGkFra3I2HQ",
+    "expires_in": 3599,
+    "id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImQ5OGY0OWJjNmNhNDU4MWVhZThkZmFkZDQ5NGZjZTEwZWEyM2FhYjAiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJhY2NvdW50cy5nb29nbGUuY29tIiwiYXpwIjoiOTcwNjE5NTQ2MDEyLTM2YzVzaW92NjVpMDkxaDA2MTVjb2RpY2FiOWNlZDM0LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwiYXVkIjoiOTcwNjE5NTQ2MDEyLTM2YzVzaW92NjVpMDkxaDA2MTVjb2RpY2FiOWNlZDM0LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwic3ViIjoiMTA5NDk0Mjg4MjgzNDI0MzIyODE1IiwiZW1haWwiOiJwZXRlcmNreWNAZ21haWwuY29tIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsImF0X2hhc2giOiJ3ZFhwNEEwM0tNMmNJM3NlM3JPdzJBIiwibmFtZSI6IlBldGVyIENoYW5nIiwicGljdHVyZSI6Imh0dHBzOi8vbGgzLmdvb2dsZXVzZXJjb250ZW50LmNvbS9hL0FBVFhBSnhPUjU5b0RIODFDUnFCdWZmVDFRNW1tQ0JxTk1BMXRKMm1NOTdhPXM5Ni1jIiwiZ2l2ZW5fbmFtZSI6IlBldGVyIiwiZmFtaWx5X25hbWUiOiJDaGFuZyIsImxvY2FsZSI6InpoLVRXIiwiaWF0IjoxNjM5ODgzMTg4LCJleHAiOjE2Mzk4ODY3ODgsImp0aSI6IjJkNmU0ZmMwODc3OWEzMDU4MDM4YWY3ZWI3MTU5YzIzN2Y3OWQxYWEifQ.k0safGVz7CTcc0IZjwTvULMKmIrGXUa-aurkZ15lncMuLMwEFo8O9p_2s2kh0eSCe5EjGxK5PT6JFB34NqhyRsKeEzQLjE3fysSRZNRTVEceqUc7EcqIs0U9iz9vva7LsuNvpO57CF5CxCPHnktvWuG0NMBwb-1Mfp5kAy8ccV80S-4exlFuFqyRMYuHY1oiJLq1SeMaN80UjumuCG3hd3SCHMLd_U8DQiIxC4TczVR1bkKOxZKlxH6w7xSDWu_uzoIsSgPFe4JSyOCG-uAxoyyIrvBN7YnHJ2aLzR-OSoI3DA6XBetrdN_k3eup7POgPyU3VEv4h7nE7lEuOu1tLw",
+    "session_state": {
+      "extraQueryParams": {
+        "authuser": "0"
+      }
+    },
+    "first_issued_at": 1639883188732,
+    "expires_at": 1639886787732,
+    "idpId": "google"
+  },
+  "yu": {
+    "DW": "109494288283424322815",
+    "nf": "Peter Chang",
+    "SX": "Peter",
+    "gW": "Chang",
+    "nN": "https://lh3.googleusercontent.com/a/AATXAJxOR59oDH81CRqBuffT1Q5mmCBqNMA1tJ2mM97a=s96-c",
+    "nv": "peterckyc@gmail.com"
+  },
+  "googleId": "109494288283424322815",
+  "tokenObj": {
+    "token_type": "Bearer",
+    "access_token": "ya29.a0ARrdaM-MDSt4U_XHBlbMmi911udTImdF9h2YbBET_7ZBOkAL-LROFqYA2mQMq6XhjDT-u8UcbA1vw7qwsUk621qoUdH1ruJPJwZ7atxfCaUDF8j1JnvFIUjAyX4DQnnE2t3gqCOQf0XxzArjGpQwS7eYRlqo-A",
+    "scope": "email profile https://www.googleapis.com/auth/drive.file https://www.googleapis.com/auth/userinfo.profile https://www.googleapis.com/auth/userinfo.email https://www.googleapis.com/auth/drive.metadata.readonly openid https://www.googleapis.com/auth/drive.readonly https://www.googleapis.com/auth/drive.appdata",
+    "login_hint": "AJDLj6JbbFDnOnbUHgULSAffngCc9BcCYUAFrhncV8kfHA2-pKsTF7LBiUpmzVf1luBLGPPFKFR4tdX_1mugUvdtGkFra3I2HQ",
+    "expires_in": 3599,
+    "id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImQ5OGY0OWJjNmNhNDU4MWVhZThkZmFkZDQ5NGZjZTEwZWEyM2FhYjAiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJhY2NvdW50cy5nb29nbGUuY29tIiwiYXpwIjoiOTcwNjE5NTQ2MDEyLTM2YzVzaW92NjVpMDkxaDA2MTVjb2RpY2FiOWNlZDM0LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwiYXVkIjoiOTcwNjE5NTQ2MDEyLTM2YzVzaW92NjVpMDkxaDA2MTVjb2RpY2FiOWNlZDM0LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwic3ViIjoiMTA5NDk0Mjg4MjgzNDI0MzIyODE1IiwiZW1haWwiOiJwZXRlcmNreWNAZ21haWwuY29tIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsImF0X2hhc2giOiJ3ZFhwNEEwM0tNMmNJM3NlM3JPdzJBIiwibmFtZSI6IlBldGVyIENoYW5nIiwicGljdHVyZSI6Imh0dHBzOi8vbGgzLmdvb2dsZXVzZXJjb250ZW50LmNvbS9hL0FBVFhBSnhPUjU5b0RIODFDUnFCdWZmVDFRNW1tQ0JxTk1BMXRKMm1NOTdhPXM5Ni1jIiwiZ2l2ZW5fbmFtZSI6IlBldGVyIiwiZmFtaWx5X25hbWUiOiJDaGFuZyIsImxvY2FsZSI6InpoLVRXIiwiaWF0IjoxNjM5ODgzMTg4LCJleHAiOjE2Mzk4ODY3ODgsImp0aSI6IjJkNmU0ZmMwODc3OWEzMDU4MDM4YWY3ZWI3MTU5YzIzN2Y3OWQxYWEifQ.k0safGVz7CTcc0IZjwTvULMKmIrGXUa-aurkZ15lncMuLMwEFo8O9p_2s2kh0eSCe5EjGxK5PT6JFB34NqhyRsKeEzQLjE3fysSRZNRTVEceqUc7EcqIs0U9iz9vva7LsuNvpO57CF5CxCPHnktvWuG0NMBwb-1Mfp5kAy8ccV80S-4exlFuFqyRMYuHY1oiJLq1SeMaN80UjumuCG3hd3SCHMLd_U8DQiIxC4TczVR1bkKOxZKlxH6w7xSDWu_uzoIsSgPFe4JSyOCG-uAxoyyIrvBN7YnHJ2aLzR-OSoI3DA6XBetrdN_k3eup7POgPyU3VEv4h7nE7lEuOu1tLw",
+    "session_state": {
+      "extraQueryParams": {
+        "authuser": "0"
+      }
+    },
+    "first_issued_at": 1639883188732,
+    "expires_at": 1639886787732,
+    "idpId": "google"
+  },
+  "tokenId": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImQ5OGY0OWJjNmNhNDU4MWVhZThkZmFkZDQ5NGZjZTEwZWEyM2FhYjAiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJhY2NvdW50cy5nb29nbGUuY29tIiwiYXpwIjoiOTcwNjE5NTQ2MDEyLTM2YzVzaW92NjVpMDkxaDA2MTVjb2RpY2FiOWNlZDM0LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwiYXVkIjoiOTcwNjE5NTQ2MDEyLTM2YzVzaW92NjVpMDkxaDA2MTVjb2RpY2FiOWNlZDM0LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwic3ViIjoiMTA5NDk0Mjg4MjgzNDI0MzIyODE1IiwiZW1haWwiOiJwZXRlcmNreWNAZ21haWwuY29tIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsImF0X2hhc2giOiJ3ZFhwNEEwM0tNMmNJM3NlM3JPdzJBIiwibmFtZSI6IlBldGVyIENoYW5nIiwicGljdHVyZSI6Imh0dHBzOi8vbGgzLmdvb2dsZXVzZXJjb250ZW50LmNvbS9hL0FBVFhBSnhPUjU5b0RIODFDUnFCdWZmVDFRNW1tQ0JxTk1BMXRKMm1NOTdhPXM5Ni1jIiwiZ2l2ZW5fbmFtZSI6IlBldGVyIiwiZmFtaWx5X25hbWUiOiJDaGFuZyIsImxvY2FsZSI6InpoLVRXIiwiaWF0IjoxNjM5ODgzMTg4LCJleHAiOjE2Mzk4ODY3ODgsImp0aSI6IjJkNmU0ZmMwODc3OWEzMDU4MDM4YWY3ZWI3MTU5YzIzN2Y3OWQxYWEifQ.k0safGVz7CTcc0IZjwTvULMKmIrGXUa-aurkZ15lncMuLMwEFo8O9p_2s2kh0eSCe5EjGxK5PT6JFB34NqhyRsKeEzQLjE3fysSRZNRTVEceqUc7EcqIs0U9iz9vva7LsuNvpO57CF5CxCPHnktvWuG0NMBwb-1Mfp5kAy8ccV80S-4exlFuFqyRMYuHY1oiJLq1SeMaN80UjumuCG3hd3SCHMLd_U8DQiIxC4TczVR1bkKOxZKlxH6w7xSDWu_uzoIsSgPFe4JSyOCG-uAxoyyIrvBN7YnHJ2aLzR-OSoI3DA6XBetrdN_k3eup7POgPyU3VEv4h7nE7lEuOu1tLw",
+  "accessToken": "ya29.a0ARrdaM-MDSt4U_XHBlbMmi911udTImdF9h2YbBET_7ZBOkAL-LROFqYA2mQMq6XhjDT-u8UcbA1vw7qwsUk621qoUdH1ruJPJwZ7atxfCaUDF8j1JnvFIUjAyX4DQnnE2t3gqCOQf0XxzArjGpQwS7eYRlqo-A",
+  "profileObj": {
+    "googleId": "109494288283424322815",
+    "imageUrl": "https://lh3.googleusercontent.com/a/AATXAJxOR59oDH81CRqBuffT1Q5mmCBqNMA1tJ2mM97a=s96-c",
+    "email": "peterckyc@gmail.com",
+    "name": "Peter Chang",
+    "givenName": "Peter",
+    "familyName": "Chang"
+  }
+}

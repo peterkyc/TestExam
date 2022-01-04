@@ -1,0 +1,19 @@
+
+yarn build  
+  error that typescript var a as type Parsing error
+
+ Parsing error: Unexpected token
+  event.data as OrderRecord
+
+npm i --save-dev @typescript-eslint/parser @typescript-eslint/eslint-plugin
+
+https://classic.yarnpkg.com/en/docs/migrating-from-npm#toc-cli-commands-comparison
+
+yarn add @typescript-eslint/parser @typescript-eslint/eslint-plugin --dev
+
+
+
+yarn add eslint-plugin-prettier --dev
+yarn add prettier --dev
+
+yarn add tsconfig-paths --dev

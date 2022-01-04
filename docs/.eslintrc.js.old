@@ -1,0 +1,60 @@
+// const { strictEslint } = require('@umijs/fabric');
+
+module.exports = {
+  // ...strictEslint,
+  "parser": "babel-eslint",
+  "parserOptions": {
+      "ecmaVersion": 6,
+      "sourceType": "module",
+      "ecmaFeatures": {
+          "jsx": true,
+          "modules": true,
+          "experimentalObjectRestSpread": true
+      }
+  },
+  "plugins": [
+      "react"
+  ],
+  "extends": ["eslint:recommended", "plugin:react/recommended"],
+   globals: {
+    // ANT_DESIGN_PRO_ONLY_DO_NOT_USE_IN_YOUR_PRODUCTION: true,
+    page: true,
+    REACT_APP_ENV: true,
+  },
+  rules: {
+    //********
+    '@typescript-eslint/no-unused-vars': 'off',
+    '@typescript-eslint/type-annotation-spacing': 'off',
+    '@typescript-eslint/consistent-type-imports': 'off',
+    '@typescript-eslint/no-unused-expressions': 'off',
+    '@typescript-eslint/array-type': 'off',
+    '@typescript-eslint/ban-types': 'off',
+    '@typescript-eslint/no-shadow': 'off',
+    '@typescript-eslint/camelcase': 'off',
+    //********
+    // "": "off",
+    'react/prop-types': 'off',
+    'eslint-comments/disable-enable-pair': 'off',
+    'import/no-cycle': 'off',
+    'import/no-mutable-exports': 'off',
+    'import/prefer-default-export': 'off',
+    'import/no-anonymous-default-export': 'off',
+    'no-useless-escape': 'off',
+    'no-param-reassign': 'off',
+    'no-var': 'off',
+    'prefer-rest-params': 'off',
+    'no-use-before-define': 'off',
+    //********
+    // "": "off",
+    'no-console': 'off',
+    'space-before-function-paren': 'off',
+    'no-unused-expressions': 'off',
+    'prefer-const': 'off',
+    'func-names': 'off',
+    'global-require': 'off',
+    'no-trailing-spaces': 'off',
+    'operator-linebreak': 'off',
+    'eslint-comments': 'off',
+  },
+  //******** End Peter Add ********
+};
