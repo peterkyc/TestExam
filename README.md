@@ -78,19 +78,6 @@ used for facebook login
 
 ## `Known Issues`
 ```
-This demo uses react-admin examples as the basis.
-
-From scratch, express has been added to the back end to provide API calls,
-And added functions such as mysql、redis、swagger and nodemailer.
-
-The front end rewrites all functions according to requirements. 
-Rewrite webpack (under folder scripts/config), And use webpack dev to 
-make the server in the development period.
-
-All functions take about 2 working weeks. Its functions are for 
-testing requirements only, and do not include requirements for other 
-professional enterprise functions.
-
 This demo uses React-admin examples as the basis.
 
 From scratch, it has added Express to the back end to provide API calls, and functions, 
